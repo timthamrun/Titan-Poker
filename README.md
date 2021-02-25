@@ -8,4 +8,4 @@ Robert Susanto
 Timothy Thamrun  
 Joel Allan Gelotin  
 
-Note: Weekly tasks will be listed on the dev branch.
+Note: Weekly tasks will be listed and implemented on the dev branch.
